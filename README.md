@@ -7,15 +7,17 @@ Neste repositório você irá encontrar as atividades práticas e projetos desen
 ## *Eles são:*
 
 * Passo Um
-* Testes
+* Desafios de Código
+* Sistema Bancário
 
 Atividade | Descrição
 :---------: | :---------
 Passo um | Um pequeno teste com o uso de nomeação de variáveis; input; if, elif e else; for e while
-Testes | Coleção de testes atribuindo condições; criando listas; e aplicando regras
-
+Desafios de Código | Coleção de testes atribuindo condições; criando listas; e aplicando regras
+Sistema Bancário | Desafio de código implementando um connunto de regras para criar um sistema bancário de saque, deposito e extrato
 
 
 ## *REFERÊNCIAS*
 
 BootCamp Santander e DIO, 2023;
+Python AI Backend Developer, 2024;
