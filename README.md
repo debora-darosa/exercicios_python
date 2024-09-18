@@ -14,7 +14,7 @@ Atividade | Descrição
 :---------: | :---------
 Passo um | Um pequeno teste com o uso de nomeação de variáveis; input; if, elif e else; for e while
 Desafios de Código | Coleção de testes atribuindo condições; criando listas; e aplicando regras
-Sistema Bancário | Desafio de código implementando um connunto de regras para criar um sistema bancário de saque, deposito e extrato
+Sistema Bancário | Desafio de código implementando um conjunto de regras para criar um sistema bancário de saque, deposito e extrato
 
 
 ## *REFERÊNCIAS*
